@@ -1,0 +1,19 @@
+{
+  "name": "js-utils",
+  "version": "0.1.0",
+  "description": "JavaScript Helper Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksgidenko/js-utils.git"
+  },
+  "author": "Aleksandr Gidenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksgidenko/js-utils/issues"
+  },
+  "homepage": "https://github.com/aleksgidenko/js-utils#readme"
+}
